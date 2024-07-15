@@ -7,6 +7,8 @@ Demonstrar habilidades na utilização do Power Query para ETL (Extração, Tran
 Realizar análises de vendas, identificando tendências e insights a partir dos dados disponíveis.
 
 Transformação dos Dados
+
+
 🔄 Renomear Colunas
 Renomeei as colunas para nomes mais intuitivos, como DataVenda, Produto, Categoria, QuantidadeVendida, PrecoUnitario, Receita.
 
